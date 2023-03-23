@@ -1,4 +1,4 @@
-# Docker-based Drupal stack
+# Docker-based Drupal stack - custom for project
 
 [![Build Status](https://github.com/wodby/docker4drupal/workflows/Run%20tests/badge.svg)](https://github.com/wodby/docker4drupal/actions)
 
